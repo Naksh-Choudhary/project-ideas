@@ -17,7 +17,7 @@ Every idea can have its own folder containing:
 
 ## Active / built projects
 
-- **[WebLite](https://github.com/Naksh-Choudhary/WebLite)** — a browser extension that reduces optional page weight while keeping blocked media available on demand. **Status: Built / active development.**
+- **[WebLite](https://github.com/Naksh-Choudhary/WebLite)** — a browser extension that reduces optional page weight while keeping blocked media available on demand; includes a Study mode for students on limited or unstable connections. **Status: Built / active development.**
 
 ## Important note
 
