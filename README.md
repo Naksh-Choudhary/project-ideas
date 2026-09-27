@@ -4,7 +4,7 @@ A structured collection of original product, robotics, AI, and software concepts
 
 ## Repository purpose
 
-Every idea will have its own folder containing:
+Every idea can have its own folder containing:
 
 - `README.md` — clear project overview
 - `PROBLEM.md` — the problem and intended users
@@ -15,9 +15,13 @@ Every idea will have its own folder containing:
 - `STATUS.md` — Concept, Prototype, or Built
 - `assets/` — diagrams, mockups, and screenshots
 
+## Active / built projects
+
+- **[WebLite](https://github.com/Naksh-Choudhary/WebLite)** — a browser extension that reduces optional page weight while keeping blocked media available on demand. **Status: Built / active development.**
+
 ## Important note
 
-Projects in this repository are documented concepts unless their status file clearly says **Prototype** or **Built**. Working applications may later move into their own dedicated repositories.
+Most projects in this repository are documented concepts unless their status clearly says **Prototype** or **Built**. Working applications can move into their own dedicated repositories once they become real projects.
 
 ## Planned organization
 
