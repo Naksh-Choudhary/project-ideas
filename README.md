@@ -38,3 +38,12 @@ project-ideas/
     ├── STATUS.md
     └── assets/
 ```
+
+## Connected projects
+
+- **ABLEHOST:** [AI-powered accessibility platform](https://github.com/Naksh-Choudhary/ABLEHOST)
+- **WebLite:** [lightweight browser extension](https://github.com/Naksh-Choudhary/WebLite)
+- **Project portfolio:** [EnderFleetOg](https://github.com/Naksh-Choudhary/EnderFleetOg)
+- **GitHub profile:** [Naksh-Choudhary](https://github.com/Naksh-Choudhary)
+
+These links keep the idea repository connected to projects that have moved into their own implementation repositories.
